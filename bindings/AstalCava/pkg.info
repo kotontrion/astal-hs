@@ -6,7 +6,6 @@
     "author": "kotontrion",
     "girName": "AstalCava",
     "girVersion": "0.1",
-    "girOverrides": "AstalCava.overrides",
     "baseVersion": "base >= 4.7 && <5",
     "distributionPackages": {
     },
