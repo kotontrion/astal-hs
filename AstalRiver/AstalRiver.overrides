@@ -1,0 +1,4 @@
+namespace AstalRiver
+
+delete-node AstalRiver/Output/transform
+
